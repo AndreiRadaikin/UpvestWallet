@@ -9,7 +9,7 @@
   "author": "ARadaikin",
   "license": "ISC",
   "dependencies": {
-    "@upvest/clientele-api": "0.0.12",
-    "@upvest/tenancy-api": "0.0.12"
+    "@upvest/clientele-api": "0.0.29",
+    "@upvest/tenancy-api": "0.0.27"
   }
 }
